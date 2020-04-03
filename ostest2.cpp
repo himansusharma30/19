@@ -17,7 +17,7 @@ int main()
         {
             	if(gifts[j]<gifts[j+1])
             	{
-				    temp=gifts[j];
+		    temp=gifts[j];
                     gifts[j]=gifts[j+1];
                     gifts[j+1]=temp;
                     
