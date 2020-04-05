@@ -24,7 +24,7 @@ int main()
                     temp=student[j];
                     student[j]=student[j+1];
                     student[j+1]=temp;
-				}
+		}
 		}
     }
     cout<<"student "<<"     gifts "<<endl;
